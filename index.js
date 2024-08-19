@@ -41,6 +41,7 @@ for (const file of files) {
 const oauthTokens = process.env.YTB_OAUTH
 
 client.player = new Player(client, {})
+client.player.extractors.loadDefault();
 client.player.extractors.register(YoutubeiExtractor, { authentication: oauthTokens }) //Added, because YoutubeExtrators dont work more. RIP
 
 client.player.events.on('playerStart', (queue, track) => {
