@@ -1,0 +1,23 @@
+{
+  "name": "p4-bot",
+  "version": "1.0.0",
+  "description": "Bot for discord channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "1.8.2",
+    "@discordjs/opus": "0.9.0",
+    "@discordjs/rest": "2.3.0",
+    "@discordjs/voice": "0.17.0",
+    "discord-api-types": "0.37.95",
+    "discord-player": "6.7.1",
+    "discord-player-youtubei": "^1.2.6",
+    "discord.js": "14.15.3",
+    "dotenv": "16.4.5"
+  }
+}
