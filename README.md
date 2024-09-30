@@ -2,7 +2,7 @@
 
 ## Configuração Node.JS
 * Verifique a versão do seu node
-* **Dica**: Use o [NVM](https://www.youtube.com/watch?v=gDJcEt7pPv8) (node version manager)!
+* **Dica**: Para administrar mais de 1 versão do node na sua máquina. Use o [NVM](https://www.youtube.com/watch?v=gDJcEt7pPv8) (node version manager)!
 ```
 Versão do NodeJS: 18.20.2
 ```
