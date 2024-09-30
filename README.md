@@ -1,5 +1,9 @@
 # P4-Bot
 
+## Configuração Node.JS
+```
+Versão do NodeJS: 18.20.2
+```
 
 
 ## Configuração .env
