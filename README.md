@@ -5,6 +5,11 @@
 Versão do NodeJS: 18.20.2
 ```
 
+## Instale o pacote do ffmpeg
+* Este pacote é nescessário para a execução do bot
+```
+npm i ffmpeg
+```
 
 ## Configuração .env
 ```
@@ -13,7 +18,6 @@ APP_ID = "YOUR_APP_ID"
 PUBLIC_KEY = "YOUR_PUBLIC_KEY"  
 YTB_OAUTH = "YOUR_YTB_OAUTH"
 ```
-
 
 ### DISCORD_TOKEN e APP_ID
 
