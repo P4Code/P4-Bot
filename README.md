@@ -37,6 +37,10 @@ Para conseguir esta chave de autenticação é nescessario seguir os seguintes p
    ```
    npx --no discord-player-youtubei
    ```
+* Caso tenha problemas com o npx acima, tente com o npm install normal
+  ```
+  npm install discord-player-youtubei
+  ```
 
 2.  Após isso, você receberá uma mensagem no console como esta, você deverá acessar o link e colar o código recebido no espaço indicado na página do google!
 
