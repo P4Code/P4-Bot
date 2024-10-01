@@ -38,6 +38,8 @@ Para conseguir esta chave de autenticação é nescessario seguir os seguintes p
    npx --no discord-player-youtubei
    ```
 * Caso tenha problemas com o npx acima, tente com o npm install normal
+
+  
   ```
   npm install discord-player-youtubei
   ```
